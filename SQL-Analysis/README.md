@@ -1,24 +1,46 @@
-# Retail Data Analysis (SQL)
+# ✈️ Airline Database SQL Capstone Project  
 
-## 📌 Project Overview
-This project uses SQL queries to analyze a retail dataset.  
-The objective was to find revenue trends, customer patterns, and store performance metrics.
+This project explores an **Airline Database** using SQL to extract meaningful insights.  
+I performed queries related to **passenger details, flight operations, and revenue analysis**.  
 
-## 🛠️ Tools & Techniques
-- MySQL / PostgreSQL
-- Joins, Subqueries, CTEs
-- Aggregations (SUM, COUNT, AVG, GROUP BY)
-- Window Functions (ROW_NUMBER, RANK)
-- Case Statements for business rules
+## 🔧 Tools Used
+- SQL (MySQL/PostgreSQL)
+- Airline Database (provided during Skillovilla course)
 
-## 📊 Key Insights
-- Top-performing products and categories
-- Region-wise revenue contribution
-- Customer purchase frequency analysis
-- Store type profitability
+## 📌 Key Highlights
+- Wrote **complex queries** to extract business insights.  
+- Analyzed **passenger data, ticket sales, and revenue trends**.  
+- Performed **joins, subqueries, aggregate functions, and window functions**.  
+- Built a structured approach to querying real-world data.  
 
-## 🚀 Skills Gained
-- Writing complex SQL queries
-- Business analytics using SQL
-- Translating raw data into insights
+## 📂 Project Structure
+- `Queries/` → SQL query files.  
+- `Output_Snapshots/` → Screenshots of results.  
+- `ER_Diagram.png` → Database schema.  
+
+## 🚀 Learning Outcome
+Gained hands-on experience in SQL query writing, business data interpretation, and database analysis.
+# ✈️ Airline Database SQL Capstone Project  
+
+This project explores an **Airline Database** using SQL to extract meaningful insights.  
+I performed queries related to **passenger details, flight operations, and revenue analysis**.  
+
+## 🔧 Tools Used
+- SQL (MySQL/PostgreSQL)
+- Airline Database (provided during Skillovilla course)
+
+## 📌 Key Highlights
+- Wrote **complex queries** to extract business insights.  
+- Analyzed **passenger data, ticket sales, and revenue trends**.  
+- Performed **joins, subqueries, aggregate functions, and window functions**.  
+- Built a structured approach to querying real-world data.  
+
+## 📂 Project Structure
+- `Queries/` → SQL query files.  
+- `Output_Snapshots/` → Screenshots of results.  
+- `ER_Diagram.png` → Database schema.  
+
+## 🚀 Learning Outcome
+Gained hands-on experience in SQL query writing, business data interpretation, and database analysis.
+
 
